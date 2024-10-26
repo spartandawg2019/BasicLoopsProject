@@ -1,0 +1,15 @@
+/Users/tomk/Projects/BasicLoops/obj/Debug/net7.0/BasicLoops.csproj.AssemblyReference.cache
+/Users/tomk/Projects/BasicLoops/obj/Debug/net7.0/BasicLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomk/Projects/BasicLoops/obj/Debug/net7.0/BasicLoops.AssemblyInfoInputs.cache
+/Users/tomk/Projects/BasicLoops/obj/Debug/net7.0/BasicLoops.AssemblyInfo.cs
+/Users/tomk/Projects/BasicLoops/obj/Debug/net7.0/BasicLoops.csproj.CoreCompileInputs.cache
+/Users/tomk/Projects/BasicLoops/bin/Debug/net7.0/BasicLoops
+/Users/tomk/Projects/BasicLoops/bin/Debug/net7.0/BasicLoops.deps.json
+/Users/tomk/Projects/BasicLoops/bin/Debug/net7.0/BasicLoops.runtimeconfig.json
+/Users/tomk/Projects/BasicLoops/bin/Debug/net7.0/BasicLoops.dll
+/Users/tomk/Projects/BasicLoops/bin/Debug/net7.0/BasicLoops.pdb
+/Users/tomk/Projects/BasicLoops/obj/Debug/net7.0/BasicLoops.dll
+/Users/tomk/Projects/BasicLoops/obj/Debug/net7.0/refint/BasicLoops.dll
+/Users/tomk/Projects/BasicLoops/obj/Debug/net7.0/BasicLoops.pdb
+/Users/tomk/Projects/BasicLoops/obj/Debug/net7.0/BasicLoops.genruntimeconfig.cache
+/Users/tomk/Projects/BasicLoops/obj/Debug/net7.0/ref/BasicLoops.dll
